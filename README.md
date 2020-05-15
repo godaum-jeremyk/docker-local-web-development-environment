@@ -13,3 +13,4 @@ Dolde is a local LEMP + NodeJS development environment.
 - MYSQL 5.7.22
 - REDIS
 - MAILHOG
+- ELASTICSEARCH
