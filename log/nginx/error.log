@@ -1,0 +1,2 @@
+2020/05/15 13:35:09 [emerg] 1#1: unexpected "}" in /etc/nginx/conf.d/default.conf:3
+2020/05/15 13:55:41 [emerg] 1#1: unexpected "}" in /etc/nginx/conf.d/default.conf:3
